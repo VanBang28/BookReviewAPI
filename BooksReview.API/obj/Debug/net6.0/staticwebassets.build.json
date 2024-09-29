@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NyVn1RRpwKMMdpq3qC1ffZCWW+CTQc4fW1CjWX6pAyk=",
+  "Source": "BooksReview.API",
+  "BasePath": "_content/BooksReview.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

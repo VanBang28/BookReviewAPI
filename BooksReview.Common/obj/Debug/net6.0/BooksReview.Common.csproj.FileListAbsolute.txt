@@ -1,0 +1,15 @@
+F:\DATN\BookReview\BooksReview\BooksReview.Common\bin\Debug\net6.0\BooksReview.Common.deps.json
+F:\DATN\BookReview\BooksReview\BooksReview.Common\bin\Debug\net6.0\BooksReview.Common.dll
+F:\DATN\BookReview\BooksReview\BooksReview.Common\bin\Debug\net6.0\BooksReview.Common.pdb
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.csproj.AssemblyReference.cache
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.Models.Resources.ResourceVN.resources
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.Resources.ResourceVI.resources
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.csproj.GenerateResource.cache
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.AssemblyInfoInputs.cache
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.AssemblyInfo.cs
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.csproj.CoreCompileInputs.cache
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.dll
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\refint\BooksReview.Common.dll
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\BooksReview.Common.pdb
+F:\DATN\BookReview\BooksReview\BooksReview.Common\obj\Debug\net6.0\ref\BooksReview.Common.dll

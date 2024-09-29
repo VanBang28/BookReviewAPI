@@ -1,0 +1,17 @@
+F:\DATN\BookReview\BooksReview\BooksReview.BL\bin\Debug\net6.0\BooksReview.BL.deps.json
+F:\DATN\BookReview\BooksReview\BooksReview.BL\bin\Debug\net6.0\BooksReview.BL.dll
+F:\DATN\BookReview\BooksReview\BooksReview.BL\bin\Debug\net6.0\BooksReview.BL.pdb
+F:\DATN\BookReview\BooksReview\BooksReview.BL\bin\Debug\net6.0\BooksReview.Common.dll
+F:\DATN\BookReview\BooksReview\BooksReview.BL\bin\Debug\net6.0\BooksReview.DL.dll
+F:\DATN\BookReview\BooksReview\BooksReview.BL\bin\Debug\net6.0\BooksReview.Common.pdb
+F:\DATN\BookReview\BooksReview\BooksReview.BL\bin\Debug\net6.0\BooksReview.DL.pdb
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.csproj.AssemblyReference.cache
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.AssemblyInfoInputs.cache
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.AssemblyInfo.cs
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.csproj.CoreCompileInputs.cache
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.csproj.CopyComplete
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.dll
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\refint\BooksReview.BL.dll
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\BooksReview.BL.pdb
+F:\DATN\BookReview\BooksReview\BooksReview.BL\obj\Debug\net6.0\ref\BooksReview.BL.dll
